@@ -2,5 +2,5 @@
 
 Try to run the package from the subfolder with:
 ```bash
-uvx git+https://github.com/RonanKMcGovern/uv-subfolder#subfolder=subfolder-test/another-subfolder
+uvx git+https://github.com/RonanKMcGovern/uv-subfolder#subdirectory=subfolder-test/another-subfolder
 ```
